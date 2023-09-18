@@ -14,4 +14,8 @@ members:
 - sim
 - george
 - tyler
+<<<<<<< HEAD
 - kim
+=======
+- park
+>>>>>>> conflict
