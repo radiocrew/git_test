@@ -3,11 +3,7 @@ team: Leopards
 manager: nora
 
 coach :
-<<<<<<< HEAD
 -niccholas
-=======
--melisa
->>>>>>> e6ed4de (edit leopards)
 
 members:
 - Linda
@@ -15,3 +11,4 @@ members:
 - David
 - olivia
 - Evie
+- dongho
